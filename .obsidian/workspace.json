@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "2aaedd1ced1d5ee0",
+    "type": "split",
+    "children": [
+      {
+        "id": "72ac7b2bd74b0cff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18f2fcc8f0ebf3cf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a860a2a62ba5cd3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "65ea385225cfd030",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9364e8d7d09aba13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c97f1cebce1479f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff18b5c5d10399b2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f883383febf41b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf68ffaaaf9343f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dd47d78dbc899b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8757a41cdc5e005c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc6c7cb1132cc643",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ad35c1bd9a8b4b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "18f2fcc8f0ebf3cf",
+  "lastOpenFiles": [
+    "2023-05-02.md",
+    "Random/My NVIM.md",
+    "Random/Server block Ubuntu 20.04 LTS.md",
+    "Sans titre.md",
+    "Arch/Host a SSH server.md",
+    "Arch/Windows missing from GRUB.md",
+    "Arch/Install Python3.11 & pip.md",
+    "2023-04-08.md"
+  ]
+}
