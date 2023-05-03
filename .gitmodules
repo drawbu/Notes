@@ -1,0 +1,3 @@
+[submodule "Perso"]
+	path = Perso
+	url = https://github.com/drawbu/Notes-perso.git
