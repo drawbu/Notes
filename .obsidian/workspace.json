@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "72ac7b2bd74b0cff",
+        "id": "d704fa8df0d4e30e",
         "type": "tabs",
         "children": [
           {
-            "id": "18f2fcc8f0ebf3cf",
+            "id": "efbcc7575b18e65a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -58,6 +58,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c5648d7aad336b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -128,18 +136,37 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "notion-like-tables:Create Notion-Like table": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
   },
-  "active": "18f2fcc8f0ebf3cf",
+  "active": "9364e8d7d09aba13",
   "lastOpenFiles": [
-    "2023-05-02.md",
-    "Random/My NVIM.md",
+    "Perso/Random",
+    "Perso/Lettre de motivation/2023 - Super U.md",
+    "Perso/2022-2023 S2/Notes.md",
+    "Perso/Lettre de motivation/Template.md",
+    "Perso/Lettre de motivation BeReal.md",
+    "Perso/Letter de motivation 2.md",
     "Random/Server block Ubuntu 20.04 LTS.md",
-    "Sans titre.md",
     "Arch/Host a SSH server.md",
-    "Arch/Windows missing from GRUB.md",
-    "Arch/Install Python3.11 & pip.md",
-    "2023-04-08.md"
+    "Perso/2022-2023 S2/Interview.md",
+    "Perso/2022-2023 S2/Compte rendu Ouverture Pro.md",
+    "Appwrite/Initiate the Appwrite CLI.md",
+    "Appwrite/Create a Appwrite function.md",
+    "Perso/2022-2023 S2/TP 10-11 Dev web.md",
+    "macOS/Install java.md",
+    "Perso/Random/KEYCHRON REFUND.md",
+    "TODO List dev web.md",
+    "macOS/Fix imports opencv2 pycharm.md",
+    "macOS/psql error connection socket.md"
   ]
 }

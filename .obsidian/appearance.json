@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Obsidian Nord",
-  "theme": "system"
+  "theme": "system",
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "translucency": true
 }
