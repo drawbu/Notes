@@ -16,7 +16,7 @@ Then, enter the password you set when you purchased it, or the one you received 
 ## Setup SSH Key
 The root user will not have a password when nixos-infect runs to completion. To enable root login, you **must** have an SSH key configured.
 
-To do that, just follow I made: [here](Server%20administration/Connect%20to%20a%20server%20over%20SSH)
+To do that, just follow I made: [here](Connect%20to%20a%20server%20over%20SSH.md)
 
 ## Change the hostname
 Contabo sets the hostname to something like `vmi######.contaboserver.net`, NixOS only allows RFC 1035 compliant hostnames ([see here](https://search.nixos.org/options?show=networking.hostName&query=hostname)). Run `hostname something_without_dots` before running the script. If you run the script before changing the hostname - remove the `/etc/nixos/configuration.nix` so it's regenerated with the new hostname.
