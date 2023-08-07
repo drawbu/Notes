@@ -1,0 +1,6 @@
+# Obsidian workspace cache
+.obsidian/workspace.json
+
+# Exclude OS settings and caches
+.trash/
+.DS_Store
