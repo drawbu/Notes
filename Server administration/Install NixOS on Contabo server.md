@@ -1,3 +1,6 @@
+# How to install NixOS on a Contabo Server
+#nixos #serveradmin 
+
 In this guide, we'll see how to setup NixOS on a Ubuntu 22.04 Contabo VPS.
 For this, we'll use a script known as [NixOS-Infect](https://github.com/elitak/nixos-infect) that is gonna replace the installed OS with NixOS.
 

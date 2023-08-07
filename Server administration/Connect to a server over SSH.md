@@ -1,3 +1,6 @@
+# Authenticate to servers using SSH
+#serveradmin 
+
 This guide will help you connect to a remote server running Linux with your SSH key (no passwords). This can be helpful as you can make your passwords a lot stronger, because you won't have to type it all the time to connect to the server.
 
 For this, I'm running Linux on my local computer (NixOS), but the process should be the same for any Linux distribution, and even macOS.
