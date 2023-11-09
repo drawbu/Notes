@@ -9,5 +9,6 @@
   },
   "showFrontmatter": false,
   "spellcheck": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "vimMode": true
 }
