@@ -1,5 +1,6 @@
 # Obsidian workspace cache
-.obsidian/workspace.json
+/.obsidian/workspace.json
+/.obsidian/plugins/companion/data.json
 
 # Exclude OS settings and caches
 .trash/
